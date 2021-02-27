@@ -1,0 +1,8 @@
+.UserInput {
+    border-radius: 12px;
+    padding: 12px;
+    outline: none;
+    font-family: sans-serif;
+    border: 1px solid blue;
+    background-color: lightblue;
+}
